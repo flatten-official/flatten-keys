@@ -94,8 +94,97 @@
         "fr": ["Aliments/Ressources nécessaires"]
     },
 
+    "male": {
+        "en": ["Male"],
+        "fr": ["Homme"]
+    },
+    "female": {
+        "en": ["Female"],
+        "fr": ["Femme"]
+    },
+    "prefer not to respond": {
+        "en": ["Prefer not to respond"],
+        "fr": ["Je préfère ne pas répondre"]
+    },
+
+
+
+    "east asian": {
+        "en": ["East Asian"],
+        "fr": ["Est-asiatiques"]
+    },
+    "south asian": {
+        "en": ["South Asian"],
+        "fr": ["Sud-asiatiques"]
+    },
+    "black/african": {
+        "en": ["Black/African"],
+        "fr": ["Africain(e)"]
+    },
+    "caucasian": {
+        "en": ["Caucasian"],
+        "fr": ["Hispanique Inuit"]
+    },
+    "hispanic/latino": {
+        "en": ["Hispanic/Latino"],
+        "fr": ["Hispanique Inuit"]
+    },
+    "inuit": {
+        "en": ["Inuit"],
+        "fr": ["Inuit"]
+    },
+    "metis": {
+        "en": ["Métis"],
+        "fr": ["Métis"]
+    },
+    "first nations": {
+        "en": ["First Nations"],
+        "fr": ["Premières"]
+    },
+    "prefer not to answer": {
+        "en": ["Prefer not to answer"],
+        "fr": ["Préfere ne pas répondre"]
+    },
+
+
+
+    "newspaper": {
+        "en": ["Newspaper"],
+        "fr": ["Journal"]
+    },
+    "tv": {
+        "en": ["TV"],
+        "fr": ["Télé"]
+    },
+
+
+
+    "mortgage payments": {
+        "en": ["Mortgage Payments"],
+        "fr": ["Versements hypothécaires"]
+    },
+    "rent": {
+        "en": ["Rent"],
+        "fr": ["Loyer"]
+    },
+    "transportation": {
+        "en": ["Transportation"],
+        "fr": ["Transport"]
+    },
+    "groceries": {
+        "en": ["Groceries"],
+        "fr": ["Les épiceries"]
+    },
+    "utilities": {
+        "en": ["Utilities"],
+        "fr": ["Services publiques"]
+    },
+
     
-    
+    "i used to but i quit": {
+        "en": ["I used to but I quit"],
+        "fr": ["Je ne fume plus"]
+    },
     "none of the above": {
         "en": ["None of the above"],
         "fr": ["Aucune de ces réponses"]
@@ -105,11 +194,11 @@
         "fr": ["Autre"]
     },
     "yes": {
-        "en": ["YES", "YES!","Yes"],
-        "fr": ["OUI", "OUI!","Oui"]
+        "en": ["YES", "YES!","Yes","Yes!"],
+        "fr": ["OUI", "OUI!","Oui","Oui!"]
     },
     "no": {
-        "en": ["NO", "NO!","No"],
-        "fr": ["NON", "NON!","Non"]
+        "en": ["NO", "NO!","No","No!"],
+        "fr": ["NON", "NON!","Non","Non!"]
     }
 }
