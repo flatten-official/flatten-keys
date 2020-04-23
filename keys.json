@@ -3,8 +3,113 @@
         "en": ["Fever"],
         "fr": ["Fièvre"]
     },
+    "chills": {
+        "en": ["Chills"],
+        "fr": ["Frissons"]
+    },
+    "shakes": {
+        "en": ["Shakes"],
+        "fr": ["Tremblements"]
+    },
+    "new or worsening cough": {
+        "en": ["New or worsening cough"],
+        "fr": ["Une nouvelle toux ou une toux qui empire"]
+    },
+    "shortness of breath": {
+        "en": ["Shortness of breath"],
+        "fr": ["Essoufflement"]
+    },
+    "diarrhea": {
+        "en": ["Diarrhea"],
+        "fr": ["Diarhée"]
+    },
+    "runny nose": {
+        "en": ["Runny nose"],
+        "fr": ["Nez qui coule"]
+    },
+    "sore throat": {
+        "en": ["Sore throat"],
+        "fr": ["Mal de gorge"]
+    },
+    "loss of smeell/taste": {
+        "en": ["Loss of smeell/taste"],
+        "fr": ["Perte d'odeur/gout"]
+    },
+    "stomach pain/cramps": {
+        "en": ["Stomach pain/cramps"],
+        "fr": ["Douleur d'estomac"]
+    },
+
+
+
+    "diabetes": {
+        "en": ["Diabetes"],
+        "fr": ["Diabète"]
+    },
+    "high blood pressure": {
+        "en": ["High blood pressure"],
+        "fr": ["L'hypertension"]
+    },
+    "heart disease": {
+        "en": ["Heart disease"],
+        "fr": ["Maladie cardio-vasculaire"]
+    },
+    "active cancer": {
+        "en": ["Active cancer"],
+        "fr": ["Cancer actif"]
+    },
+    "COPD/asthma": {
+        "en": ["COPD/Asthma"],
+        "fr": ["MPOC/Asthme"]
+    },
+    "immunocompromised": {
+        "en": ["Immunocompromised"],
+        "fr": ["Immunodéprimé(e)"]
+    },
+    "kidney disease": {
+        "en": ["Kidney disease"],
+        "fr": ["Maladie rénale"]
+    },
+    "history of stroke": {
+        "en": ["History of stroke"],
+        "fr": ["Antécédents d'AVC"]
+    },
+    
+
+    
+    "financial support": {
+        "en": ["Financial support"],
+        "fr": ["Aide financière"]
+    },
+    "emotional support": {
+        "en": ["Emotional support"],
+        "fr": ["Soutien affectif"]
+    },
+    "medication/pharmacy resources": {
+        "en": ["Medication/Pharmacy resources"],
+        "fr": ["Médicaments/Ressources de la pharmacie"]
+    },
+    "food/necessary resources": {
+        "en": ["Food/Necessary resources"],
+        "fr": ["Aliments/Ressources nécessaires"]
+    },
+
+    
+    
+    "none of the above": {
+        "en": ["None of the above"],
+        "fr": ["Aucune de ces réponses"]
+    },
+    "other": {
+        "en": ["Other"],
+        "fr": ["Autre"]
+    },
     "yes": {
-        "en": ["Yes", "Yes!"],
-        "fr": ["Oui", "Oui!"]
+        "en": ["YES", "YES!","Yes"],
+        "fr": ["OUI", "OUI!","Oui"]
+    },
+    "no": {
+        "en": ["NO", "NO!","No"],
+        "fr": ["NON", "NON!","Non"]
     }
 }
