@@ -11,11 +11,11 @@
         "en": ["Shakes"],
         "fr": ["Tremblements"]
     },
-    "new or worsening cough": {
+    "newOrWorseningCough": {
         "en": ["New or worsening cough"],
         "fr": ["Une nouvelle toux ou une toux qui empire"]
     },
-    "shortness of breath": {
+    "shortnessOfBreath": {
         "en": ["Shortness of breath"],
         "fr": ["Essoufflement"]
     },
@@ -23,42 +23,39 @@
         "en": ["Diarrhea"],
         "fr": ["Diarhée"]
     },
-    "runny nose": {
+    "runnyNose": {
         "en": ["Runny nose"],
         "fr": ["Nez qui coule"]
     },
-    "sore throat": {
+    "soreThroat": {
         "en": ["Sore throat"],
         "fr": ["Mal de gorge"]
     },
-    "loss of smeell/taste": {
+    "lossOfSmellTaste": {
         "en": ["Loss of smeell/taste"],
         "fr": ["Perte d'odeur/gout"]
     },
-    "stomach pain/cramps": {
+    "stomachPainCramps": {
         "en": ["Stomach pain/cramps"],
         "fr": ["Douleur d'estomac"]
     },
-
-
-
     "diabetes": {
         "en": ["Diabetes"],
         "fr": ["Diabète"]
     },
-    "high blood pressure": {
+    "highBloodPressure": {
         "en": ["High blood pressure"],
         "fr": ["L'hypertension"]
     },
-    "heart disease": {
+    "heartDisease": {
         "en": ["Heart disease"],
         "fr": ["Maladie cardio-vasculaire"]
     },
-    "active cancer": {
+    "activeCancer": {
         "en": ["Active cancer"],
         "fr": ["Cancer actif"]
     },
-    "COPD/asthma": {
+    "breathingProblems": {
         "en": ["COPD/Asthma"],
         "fr": ["MPOC/Asthme"]
     },
@@ -66,37 +63,31 @@
         "en": ["Immunocompromised"],
         "fr": ["Immunodéprimé(e)"]
     },
-    "kidney disease": {
+    "kidneyDisease": {
         "en": ["Kidney disease"],
         "fr": ["Maladie rénale"]
     },
-    "history of stroke": {
+    "historyOfStroke": {
         "en": ["History of stroke"],
         "fr": ["Antécédents d'AVC"]
     },
-    
-
-    
-    "financial support": {
+    "financialSupport": {
         "en": ["Financial support"],
         "fr": ["Aide financière"]
     },
-    "emotional support": {
+    "emotionalSupport": {
         "en": ["Emotional support"],
         "fr": ["Soutien affectif"]
     },
-    "medication/pharmacy resources": {
+    "medicationPharmacyResources": {
         "en": ["Medication/Pharmacy resources"],
         "fr": ["Médicaments/Ressources de la pharmacie"]
     },
-    "food/necessary resources": {
+    "food": {
         "en": ["Food/Necessary resources"],
         "fr": ["Aliments/Ressources nécessaires"]
     },
-
-    
-    
-    "none of the above": {
+    "noneOfTheAbove": {
         "en": ["None of the above"],
         "fr": ["Aucune de ces réponses"]
     },
