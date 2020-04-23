@@ -11,7 +11,7 @@
         "en": ["Shakes"],
         "fr": ["Tremblements"]
     },
-    "newOrWorseningCough": {
+    "cough": {
         "en": ["New or worsening cough"],
         "fr": ["Une nouvelle toux ou une toux qui empire"]
     },
