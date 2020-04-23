@@ -2,5 +2,9 @@
     "fever": {
         "en": ["Fever"],
         "fr": ["Fièvre"]
+    },
+    "yes": {
+        "en": ["Yes", "Yes!"],
+        "fr": ["Oui", "Oui!"]
     }
 }
