@@ -89,13 +89,13 @@
     },
     "male": {
         "en": ["Male"],
-        "fr": ["Homme"]
+        "fr": ["Homme", "Male"]
     },
     "female": {
         "en": ["Female"],
-        "fr": ["Femme"]
+        "fr": ["Femme", "Femelle"]
     },
-    "prefer not to respond": {
+    "preferNotToRespond": {
         "en": ["Prefer not to respond"],
         "fr": ["Je préfère ne pas répondre"]
     },
