@@ -182,5 +182,17 @@
     "no": {
         "en": ["NO", "NO!","No","No!"],
         "fr": ["NON", "NON!","Non","Non!"]
+    },
+    "positive": {
+        "en": ["Positive"],
+        "fr": ["Positif"],
+    },
+    "negitive" {
+        "en": ["Negative"],
+        "fr": ["Négatif"]
+    },
+    "awaiting_results": {
+        "en": ["Awaiting Results"],
+        "fr": ["En attente de résultats"]
     }
 }
