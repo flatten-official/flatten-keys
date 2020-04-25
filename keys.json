@@ -187,7 +187,7 @@
         "en": ["Positive"],
         "fr": ["Positif"],
     },
-    "negitive" {
+    "negitive": {
         "en": ["Negative"],
         "fr": ["Négatif"]
     },
