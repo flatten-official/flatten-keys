@@ -79,7 +79,7 @@
         "en": ["Emotional support"],
         "fr": ["Soutien affectif"]
     },
-    "medicationPharmacyResources": {
+    "medication": {
         "en": ["Medication/Pharmacy resources"],
         "fr": ["Médicaments/Ressources de la pharmacie"]
     },
