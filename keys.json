@@ -173,7 +173,7 @@
     },
     "other": {
         "en": ["Other"],
-        "fr": ["Autre"]
+        "fr": ["Autre", "Autres"]
     },
     "yes": {
         "en": ["YES", "YES!","Yes","Yes!"],
