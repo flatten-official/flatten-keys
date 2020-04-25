@@ -194,5 +194,13 @@
     "awaiting_results": {
         "en": ["Awaiting Results"],
         "fr": ["En attente de résultats"]
+    },
+    "<18": {
+        "en": ["Less than 18"],
+        "fr": ["Moins de 18"]
+    },
+    ">75": {
+        "en": ["75 and greater"],
+        "fr": ["Plus de 75"]
     }
 }
