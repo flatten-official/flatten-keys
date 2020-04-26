@@ -218,5 +218,14 @@
     },
     "noSymptoms" : {
         "so": ["Calaamado malaha; waan wanaagsanahay"]
+    },
+    "wellness" : {
+        "so": ["Wellness"]
+    },
+    "death" : {
+        "so": ["Dhimashada"]
+    },
+    "illFamily": {
+        "so": ["Qoys xanuunsanaya"]
     }
 }
