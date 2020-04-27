@@ -1,7 +1,8 @@
 {
     "fever": {
         "en": ["Fever"],
-        "fr": ["Fièvre"]
+        "fr": ["Fièvre"],
+        "so": ["Qandho Cusub"]
     },
     "chills": {
         "en": ["Chills"],
@@ -13,11 +14,13 @@
     },
     "cough": {
         "en": ["New or worsening cough"],
-        "fr": ["Une nouvelle toux ou une toux qui empire"]
+        "fr": ["Une nouvelle toux ou une toux qui empire"],
+        "so": ["Qunfac cusub ama qunfac ka sii daryan"]
     },
     "shortnessOfBreath": {
         "en": ["Shortness of breath"],
-        "fr": ["Essoufflement"]
+        "fr": ["Essoufflement"],
+        "so": ["Neefyari oo kugu cusub/neef qabasho"]
     },
     "diarrhea": {
         "en": ["Diarrhea"],
@@ -41,7 +44,8 @@
     },
     "diabetes": {
         "en": ["Diabetes"],
-        "fr": ["Diabète"]
+        "fr": ["Diabète"],
+        "so": ["Sokorow/kaadi macaan"]
     },
     "highBloodPressure": {
         "en": ["High blood pressure"],
@@ -49,15 +53,18 @@
     },
     "heartDisease": {
         "en": ["Heart disease"],
-        "fr": ["Maladie cardio-vasculaire"]
+        "fr": ["Maladie cardio-vasculaire"],
+        "so": ["Wadna xanuun ama dhiikar"]
     },
     "activeCancer": {
         "en": ["Active cancer"],
-        "fr": ["Cancer actif"]
+        "fr": ["Cancer actif"],
+        "so": ["Kansarka ama difaaca jirka oo liita"]
     },
     "breathingProblems": {
         "en": ["COPD/Asthma"],
-        "fr": ["MPOC/Asthme"]
+        "fr": ["MPOC/Asthme"],
+        "so": ["Cudurada sambabada (neefta, COPD)"]
     },
     "immunocompromised": {
         "en": ["Immunocompromised"],
@@ -202,5 +209,23 @@
     ">75": {
         "en": ["75 and greater"],
         "fr": ["Plus de 75"]
+    },
+    "nearDeath": {
+        "so": ["Dhimasho dhow"]
+    },
+    ">65": {
+        "so": ["Da’da ka weyn 65"]
+    },
+    "noSymptoms" : {
+        "so": ["Calaamado malaha; waan wanaagsanahay"]
+    },
+    "wellness" : {
+        "so": ["Wellness"]
+    },
+    "death" : {
+        "so": ["Dhimashada"]
+    },
+    "illFamily": {
+        "so": ["Qoys xanuunsanaya"]
     }
 }
