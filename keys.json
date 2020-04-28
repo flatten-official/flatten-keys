@@ -1,206 +1,249 @@
 {
-    "fever": {
-        "en": ["Fever"],
-        "fr": ["Fièvre"]
-    },
-    "chills": {
-        "en": ["Chills"],
-        "fr": ["Frissons"]
-    },
-    "shakes": {
-        "en": ["Shakes"],
-        "fr": ["Tremblements"]
-    },
-    "cough": {
-        "en": ["New or worsening cough"],
-        "fr": ["Une nouvelle toux ou une toux qui empire"]
-    },
-    "shortnessOfBreath": {
-        "en": ["Shortness of breath"],
-        "fr": ["Essoufflement"]
-    },
-    "diarrhea": {
-        "en": ["Diarrhea"],
-        "fr": ["Diarhée"]
-    },
-    "runnyNose": {
-        "en": ["Runny nose"],
-        "fr": ["Nez qui coule"]
-    },
-    "soreThroat": {
-        "en": ["Sore throat"],
-        "fr": ["Mal de gorge"]
-    },
-    "lossOfSmellTaste": {
-        "en": ["Loss of smell/taste"],
-        "fr": ["Perte d'odeur/gout"]
-    },
-    "stomachPainCramps": {
-        "en": ["Stomach pain/cramps"],
-        "fr": ["Douleur d'estomac"]
-    },
-    "diabetes": {
-        "en": ["Diabetes"],
-        "fr": ["Diabète"]
-    },
-    "highBloodPressure": {
-        "en": ["High blood pressure"],
-        "fr": ["L'hypertension"]
-    },
-    "heartDisease": {
-        "en": ["Heart disease"],
-        "fr": ["Maladie cardio-vasculaire"]
-    },
-    "activeCancer": {
-        "en": ["Active cancer"],
-        "fr": ["Cancer actif"]
-    },
-    "breathingProblems": {
-        "en": ["COPD/Asthma"],
-        "fr": ["MPOC/Asthme"]
-    },
-    "immunocompromised": {
-        "en": ["Immunocompromised"],
-        "fr": ["Immunodéprimé(e)"]
-    },
-    "kidneyDisease": {
-        "en": ["Kidney disease"],
-        "fr": ["Maladie rénale"]
-    },
-    "historyOfStroke": {
-        "en": ["History of stroke"],
-        "fr": ["Antécédents d'AVC"]
-    },
-    "financialSupport": {
-        "en": ["Financial support"],
-        "fr": ["Aide financière"]
-    },
-    "emotionalSupport": {
-        "en": ["Emotional support"],
-        "fr": ["Soutien affectif"]
-    },
-    "medication": {
-        "en": ["Medication/Pharmacy resources"],
-        "fr": ["Médicaments/Ressources de la pharmacie"]
-    },
-    "food": {
-        "en": ["Food/Necessary resources"],
-        "fr": ["Aliments/Ressources nécessaires"]
-    },
-    "male": {
-        "en": ["Male"],
-        "fr": ["Homme", "Male"]
-    },
-    "female": {
-        "en": ["Female"],
-        "fr": ["Femme", "Femelle"]
-    },
-    "preferNotToRespond": {
-        "en": ["Prefer not to respond"],
-        "fr": ["Je préfère ne pas répondre"]
-    },
-    "east asian": {
-        "en": ["East Asian"],
-        "fr": ["Est-asiatiques"]
-    },
-    "south asian": {
-        "en": ["South Asian"],
-        "fr": ["Sud-asiatiques"]
-    },
-    "black/african": {
-        "en": ["Black/African"],
-        "fr": ["Africain(e)"]
-    },
-    "caucasian": {
-        "en": ["Caucasian"],
-        "fr": ["Caucasien(ne)"]
-    },
-    "hispanic/latino": {
-        "en": ["Hispanic/Latino"],
-        "fr": ["Hispanique Inuit"]
-    },
-    "inuit": {
-        "en": ["Inuit"],
-        "fr": ["Inuit"]
-    },
-    "metis": {
-        "en": ["Métis"],
-        "fr": ["Métis"]
-    },
-    "firstNations": {
-        "en": ["First Nations"],
-        "fr": ["Premières"]
-    },
-    "preferNotToAnswer": {
-        "en": ["Prefer not to answer"],
-        "fr": ["Préfere ne pas répondre"]
-    },
-    "newspaper": {
-        "en": ["Newspaper"],
-        "fr": ["Journal"]
-    },
-    "tv": {
-        "en": ["TV"],
-        "fr": ["Télé"]
-    },
-    "mortgagePayments": {
-        "en": ["Mortgage Payments"],
-        "fr": ["Versements hypothécaires"]
-    },
-    "rent": {
-        "en": ["Rent"],
-        "fr": ["Loyer"]
-    },
-    "transportation": {
-        "en": ["Transportation"],
-        "fr": ["Transport"]
-    },
-    "groceries": {
-        "en": ["Groceries"],
-        "fr": ["Les épiceries"]
-    },
-    "utilities": {
-        "en": ["Utilities"],
-        "fr": ["Services publiques"]
-    },
-    "quitSmoking": {
-        "en": ["I used to but I quit"],
-        "fr": ["Je ne fume plus"]
-    },
-    "noneOfTheAbove": {
-        "en": ["None of the above"],
-        "fr": ["Aucune de ces réponses"]
-    },
-    "other": {
-        "en": ["Other"],
-        "fr": ["Autre", "Autres"]
-    },
-    "yes": {
-        "en": ["YES", "YES!","Yes","Yes!"],
-        "fr": ["OUI", "OUI!","Oui","Oui!"]
-    },
-    "no": {
-        "en": ["NO", "NO!","No","No!"],
-        "fr": ["NON", "NON!","Non","Non!"]
-    },
-    "positive": {
-        "en": ["Positive"],
-        "fr": ["Positif"]
-    },
-    "negative": {
-        "en": ["Negative"],
-        "fr": ["Négatif"]
-    },
-    "awaiting_results": {
-        "en": ["Awaiting Results"],
-        "fr": ["En attente de résultats"]
-    },
-    "<18": {
-        "en": ["Less than 18"],
-        "fr": ["Moins de 18"]
-    },
-    ">75": {
-        "en": ["75 and greater"],
-        "fr": ["Plus de 75"]
-    }
+  "fever": {
+    "en": ["Fever"],
+    "fr": ["Fièvre"]
+  },
+  "chills": {
+    "en": ["Chills"],
+    "fr": ["Frissons"]
+  },
+  "shakes": {
+    "en": ["Shakes"],
+    "fr": ["Tremblements"]
+  },
+  "cough": {
+    "en": ["New or worsening cough"],
+    "fr": ["Une nouvelle toux ou une toux qui empire"]
+  },
+  "shortnessOfBreath": {
+    "en": ["Shortness of breath"],
+    "fr": ["Essoufflement"]
+  },
+  "diarrhea": {
+    "en": ["Diarrhea"],
+    "fr": ["Diarhée"]
+  },
+  "runnyNose": {
+    "en": ["Runny nose"],
+    "fr": ["Nez qui coule"]
+  },
+  "soreThroat": {
+    "en": ["Sore throat"],
+    "fr": ["Mal de gorge"]
+  },
+  "lossOfSmellTaste": {
+    "en": ["Loss of smell/taste"],
+    "fr": ["Perte d'odeur/gout", "perte d'odorat ou de gout"]
+  },
+  "stomachPainCramps": {
+    "en": ["Stomach pain/cramps"],
+    "fr": ["Douleur d'estomac"]
+  },
+  "diabetes": {
+    "en": ["Diabetes"],
+    "fr": ["Diabète"]
+  },
+  "highBloodPressure": {
+    "en": ["High blood pressure"],
+    "fr": ["L'hypertension"]
+  },
+  "heartDisease": {
+    "en": ["Heart disease"],
+    "fr": ["Maladie cardio-vasculaire"]
+  },
+  "activeCancer": {
+    "en": ["Active cancer"],
+    "fr": ["Cancer actif"]
+  },
+  "breathingProblems": {
+    "en": ["COPD/Asthma"],
+    "fr": ["MPOC/Asthme"]
+  },
+  "immunocompromised": {
+    "en": ["Immunocompromised"],
+    "fr": ["Immunodéprimé(e)"]
+  },
+  "kidneyDisease": {
+    "en": ["Kidney disease"],
+    "fr": ["Maladie rénale"]
+  },
+  "historyOfStroke": {
+    "en": ["History of stroke"],
+    "fr": ["Antécédents d'AVC"]
+  },
+  "financialSupport": {
+    "en": ["Financial support"],
+    "fr": ["Aide financière"]
+  },
+  "emotionalSupport": {
+    "en": ["Emotional support"],
+    "fr": ["Soutien affectif"]
+  },
+  "medication": {
+    "en": ["Medication/Pharmacy resources"],
+    "fr": ["Médicaments/Ressources de la pharmacie"]
+  },
+  "food": {
+    "en": ["Food/Necessary resources"],
+    "fr": ["Aliments/Ressources nécessaires"]
+  },
+  "male": {
+    "en": ["Male"],
+    "fr": ["Homme", "Male"]
+  },
+  "female": {
+    "en": ["Female"],
+    "fr": ["Femme", "Femelle"]
+  },
+  "preferNotToRespond": {
+    "en": ["Prefer not to respond"],
+    "fr": ["Je préfère ne pas répondre"]
+  },
+  "east asian": {
+    "en": ["East Asian"],
+    "fr": ["Est-asiatiques"]
+  },
+  "south asian": {
+    "en": ["South Asian"],
+    "fr": ["Sud-asiatiques"]
+  },
+  "black/african": {
+    "en": ["Black/African"],
+    "fr": ["Africain(e)"]
+  },
+  "caucasian": {
+    "en": ["Caucasian"],
+    "fr": ["Caucasien(ne)"]
+  },
+  "hispanic/latino": {
+    "en": ["Hispanic/Latino"],
+    "fr": ["Hispanique Inuit"]
+  },
+  "inuit": {
+    "en": ["Inuit"],
+    "fr": ["Inuit"]
+  },
+  "metis": {
+    "en": ["Métis"],
+    "fr": ["Métis"]
+  },
+  "firstNations": {
+    "en": ["First Nations"],
+    "fr": ["Premières"]
+  },
+  "preferNotToAnswer": {
+    "en": ["Prefer not to answer"],
+    "fr": ["Préfere ne pas répondre"]
+  },
+  "newspaper": {
+    "en": ["Newspaper"],
+    "fr": ["Journal", "les journaux"]
+  },
+  "tv": {
+    "en": ["TV"],
+    "fr": ["Télé", "la tele"]
+  },
+  "radio": {
+    "en": ["radio"],
+    "fr": ["radio", "la radio"]
+  },
+  "mortgagePayments": {
+    "en": ["Mortgage Payments"],
+    "fr": ["Versements hypothécaires"]
+  },
+  "rent": {
+    "en": ["Rent"],
+    "fr": ["Loyer"]
+  },
+  "transportation": {
+    "en": ["Transportation"],
+    "fr": ["Transport"]
+  },
+  "groceries": {
+    "en": ["Groceries"],
+    "fr": ["Les épiceries", "epiceries"]
+  },
+  "utilities": {
+    "en": ["Utilities"],
+    "fr": ["Services publiques"]
+  },
+  "quitSmoking": {
+    "en": ["I used to but I quit"],
+    "fr": ["Je ne fume plus"]
+  },
+  "noneOfTheAbove": {
+    "en": ["None of the above"],
+    "fr": ["Aucune de ces réponses"]
+  },
+  "other": {
+    "en": ["Other"],
+    "fr": ["Autre", "Autres"]
+  },
+  "yes": {
+    "en": ["YES", "YES!", "Yes", "Yes!"],
+    "fr": ["OUI", "OUI!", "Oui", "Oui!"]
+  },
+  "no": {
+    "en": ["NO", "NO!", "No", "No!"],
+    "fr": ["NON", "NON!", "Non", "Non!"]
+  },
+  "positively": {
+    "en": ["Positive", "positively"],
+    "fr": ["Positif", "positivement"]
+  },
+  "negatively": {
+    "en": ["Negative", "negatively"],
+    "fr": ["Négatif", "negativement"]
+  },
+  "awaiting_results": {
+    "en": ["Awaiting Results"],
+    "fr": ["En attente de résultats"]
+  },
+  "<18": {
+    "en": ["Less than 18"],
+    "fr": ["Moins de 18"]
+  },
+  ">75": {
+    "en": ["75 and greater"],
+    "fr": ["Plus de 75"]
+  },
+  "stoppedTravelling": {
+    "en": ["i have stopped travelling to work / school"],
+    "fr": [
+      "j'ai arrete d'aller a l'ecole/au bureau",
+      "non: j'ai arrete d'aller a l'ecole ou aux travail."
+    ]
+  },
+  "didntTravelBefore": {
+    "en": [
+      "i didn't previously travel to work",
+      "i didn't previously travel to work / school"
+    ],
+    "fr": [
+      "je n'etais jamais alle au bureau/a l'ecole",
+      "non: je n'allais pas a l'ecole ou aux travail de toute facon."
+    ]
+  },
+  "alwaysWorkFromHome": {
+    "en": ["i always worked / studied from home"],
+    "fr:": ["j'ai toujours travaille de la maison"]
+  },
+  "stillTravelEssential": {
+    "en": ["i still travel to work (i am an essential worker)"],
+    "fr": [
+      "je vais toujours a travail (je suis un travailleur essentiel)",
+      "oui: je vais toujours aux travail, et je suis un travailleur essentiel"
+    ]
+  },
+  "stillTravelNonEssential": {
+    "en": ["i still travel to work (i am not an essential worker)"],
+    "fr": [
+      "je vais toujours a travail (je ne suis pas un travailleur essentiel)",
+      "oui: je vais toujours aux travail, mais je ne suis pas un travailleur essentiel"
+    ]
+  },
+  "noImpact": {
+    "en": ["no impact"],
+    "fr": ["aucun effet"]
+  }
 }
